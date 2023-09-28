@@ -1,0 +1,54 @@
+System and Network
+โปรเจคสหกิจศึกษา
+https://www.canva.com/design/DAFRg-COxko/l_gXqi_MuqLtizH7rPyLKg/edit?utm_content=DAFRg-COxko&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+https://www.canva.com/design/DAFRg-COxko/4SnLpAfth49uFUFlDNiknA/view?utm_content=DAFRg-COxko&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+https://drive.google.com/file/d/1OIySWATuD4jsmFDMQzSBQeEwGr-5ZhZn/view?usp=sharing
+
+ศึกษาผลกระทบของเครื่อข่ายไร้สาย เมื่อมีสิ่งกีดขวางลักษณะต่างกัน อย่างอิฐ อลูมิเนียม และไม้
+https://drive.google.com/file/d/1GaZvkpU2ylZjGhwR7U6iAGWUDbg36dM5/view?usp=sharing
+https://www.canva.com/design/DAE_sFvotC8/lWusxqLx9qWUZnfFJEX8fg/view?utm_content=DAE_sFvotC8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+Network design
+https://www.canva.com/design/DAE_zWHrfwg/L9H4qWZrk4MX77XbscJvbA/view?utm_content=DAE_zWHrfwg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+การศึกษาอัตราการแพร่กระจายของไวรัส COVID-19 สายพันธุ์ Omicron ของร้านอาหารตามสั่งที่เป็นห้องปรับอากาศ โดยใช้ NS3
+https://www.canva.com/design/DAE-5dMYNR8/kp5zxoPhMmqLXGopvjargw/view?utm_content=DAE-5dMYNR8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+https://docs.google.com/document/d/1yKI1ZOAC9hmrN2-Td53KGJ8h3Q2S-XSyXt6t24uVVaA/edit?usp=sharing
+
+Virtual Data Center Management
+https://www.canva.com/design/DAFALY_SOMM/E3d2oNbG-D80V6Mj2ZQQjA/view?utm_content=DAFALY_SOMM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+https://docs.google.com/document/d/1smvOm6ZVZqC2qFmkn4i_c7FlDiVKCVB_3uYGmoM7rJc/edit?usp=sharing
+
+NetCrunch 11 - Network Monitoring
+https://docs.google.com/document/d/1PCRwCqZp18_N3o5AIoNXDYc3RDydx8IF5mRu01se_fE/edit?usp=sharing
+
+สรุปวิชา Network programing
+https://docs.google.com/document/d/1ePfEr0-S7ww7phrGwpo-TjFF-jMccmINtnl55bkOcxQ/edit?usp=sharing
+
+IT
+
+เว็บแอปพลิเคชันขายหนังสือออนไลน์
+https://drive.google.com/file/d/1WG9SqOEF1pR_obbIAR5DF0-9EV8cyHLl/view?usp=sharing
+
+https://www.canva.com/design/DAEejfpMJyc/bPLpc0GtTLxdabMY1xYU7A/view?utm_content=DAEejfpMJyc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+The protector game using JAVA Script
+https://www.canva.com/design/DAEPwi8Bkhc/cBaQ3gfrSv8C9y9M1bTC0A/view?utm_content=DAEPwi8Bkhc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+Cloud
+Line Bot For Search Youtube's Video
+https://www.canva.com/design/DAEytIhpp2A/g4sXU1oXGps5pitiqT2AVg/view?utm_content=DAEytIhpp2A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&fbclid=IwAR3eKynRqOIpx_u0K2377tGBENe3pnfO844Ha3_IqjiBp-jRB7PidSVEGlE#1
+
+https://www.youtube.com/watch?v=HeNucv6j--c
+
+Load Balance Web Server with RDS By Terraform (AWS)
+https://github.com/Blackross22/NPA-PROJECT
+
+https://www.canva.com/design/DAFBaauPcn0/KP5AIvjwqLXSgq9VyLiCCA/view?utm_content=DAFBaauPcn0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+เมนูก๋วยเตี๋ยวหมูน้ำตก กัญ 
+https://www.canva.com/design/DAEgtjUH8K8/rAu2J2g2V6xkYbyOv6MYig/view?utm_content=DAEgtjUH8K8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink

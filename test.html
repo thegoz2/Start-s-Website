@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- ... (Your existing head content) ... -->
+</head>
+
+<body class="all">
+    <!-- ... (Your existing navbar and container content) ... -->
+
+    <div class="container">
+        <p style="text-align:center;
+                   color: #5B6677;
+                    font-family: Inter;
+                    font-size: 20px;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: normal; 
+                    margin-top: 40px;">Project</p>
+        <div class="row">
+            <div class="col-md-6" id="block">
+                <p class="pro-t1" style="margin-top: -120px;">NETWORK AND SYSTEM</p>
+
+                <div style="margin-left: 50px;">
+                    <p class="pro-t2">Project 1<img src="arrow.png" id="toggleButton1"></img></p>
+                    <div class="horizontal-line"></div>
+                    <div id="hiddenObject1" style="display: none;">
+                       <p> This is the object you want to reveal/hide.<p>
+                        <p> This is the object you want to reveal/hide.<p>
+                        <p> This is the object you want to reveal/hide.<p></p>
+                    </div>
+                </div>
+                <div style="margin-left: 50px; margin-top: 15px;">
+                    <p class="pro-t2">Project 1<img src="arrow.png" id="toggleButton2"></img></p>
+                    <div class="horizontal-line"></div>
+                    <div id="hiddenObject2" style="display: none;">
+                       <p> This is the object you want to reveal/hide.<p>
+                        <p> This is the object you want to reveal/hide.<p>
+                        <p> This is the object you want to reveal/hide.<p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script>
+        function toggleObject(id) {
+            const hiddenObject = document.getElementById(`hiddenObject${id}`);
+            const toggleButton = document.getElementById(`toggleButton${id}`);
+            let currentRotation = 0;
+
+            if (hiddenObject.style.display === 'block') {
+                currentRotation += 0;
+                hiddenObject.style.display = 'none';
+            } else {
+                currentRotation += 180;
+                hiddenObject.style.display = 'block';
+            }
+
+            toggleButton.style.transform = `rotate(${currentRotation}deg)`;
+        }
+
+        document.getElementById('toggleButton1').addEventListener('click', () => toggleObject(1));
+        document.getElementById('toggleButton2').addEventListener('click', () => toggleObject(2));
+        document.getElementById('toggleButton3').addEventListener('click', () => toggleObject(3));
+    </script>
+</body>
+
+</html>
